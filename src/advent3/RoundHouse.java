@@ -1,10 +1,9 @@
 package advent3;
 
-import java.util.Scanner;
-import java.util.StringTokenizer;
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collections;
+import java.util.Scanner;
 
 public class RoundHouse {
 	public static void main(String[] args) throws IOException {
